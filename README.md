@@ -26,3 +26,5 @@ forEach
 classList .add .remove
 
 function and setAttribute.
+
+Everything is explained in the code
