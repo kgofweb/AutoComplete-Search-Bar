@@ -11,4 +11,18 @@ Technology used:
 
 and
 
-`JavaScript`
+`JavaScript`: element used:
+
+DOM manipulation
+
+Event
+
+Conditions
+
+`filter` and `map`  method
+
+forEach
+
+classList .add .remove
+
+function and setAttribute.
