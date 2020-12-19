@@ -29,4 +29,8 @@ function and setAttribute.
 
 Everything is explained in the code
 
+# ES6 Concatanation
+
+return data = `<li>${data}</li>`;
+
 Thank u for watching
