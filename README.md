@@ -33,4 +33,4 @@ Everything is explained in the code
 
 return data = `<li>${data}</li>`;
 
-Thank u for watching
+Thank u for watching.
